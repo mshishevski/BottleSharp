@@ -1,0 +1,4 @@
+let greeting = "Hello" + " from BottleSharp";
+print(greeting);
+print("a" == "a");
+print("a" != "b");

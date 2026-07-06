@@ -1,0 +1,7 @@
+let temperature = 32;
+
+if (temperature > 30) {
+    print("hot");
+} else {
+    print("normal");
+}

@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BottleSharp.Cli/BottleSharp.Cli.csproj" />
+    <Project Path="src/BottleSharp.Compiler/BottleSharp.Compiler.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/BottleSharp.Cli.Tests/BottleSharp.Cli.Tests.csproj" />
+    <Project Path="tests/BottleSharp.Compiler.Tests/BottleSharp.Compiler.Tests.csproj" />
+  </Folder>
+</Solution>

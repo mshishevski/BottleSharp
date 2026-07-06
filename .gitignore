@@ -1,0 +1,25 @@
+# Build outputs
+**/bin/
+**/obj/
+
+# Test and coverage artifacts
+TestResults/
+coverage/
+*.coverage
+*.trx
+
+# IDE files
+.vs/
+.vscode/
+
+# User files
+*.user
+*.suo
+
+# Database artifacts
+*.bsql
+*.bsql-wal
+*.bsql-lock
+
+# Logs
+*.log
